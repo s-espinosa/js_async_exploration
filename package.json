@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/s-espinosa/js_async_exploration#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
